@@ -1,6 +1,7 @@
 {
     "name": "1k_andre_b",
-    "vendorProductId": 3442225958,
+    "vendorId": "0x8676",
+    "productId": "0x6566",
     "firmwareVersion": 0,
     "menus": [
     ],
@@ -11,27 +12,9 @@
         "rows": 1,
         "cols": 1
     },
-    "layouts": {
-        "labels": [
-        ],
-        "width": 2.25,
-        "height": 2.25,
-        "optionKeys": {
-           
-        },
-        "keys": [
-            {
-                "row": 0,
-                "col": 0,
-                "x": 0,
-                "y": 0,
-                "r": 0,
-                "rx": -2.5,
-                "ry": 0,
-                "h": 1,
-                "w": 1,
-                "color": "alpha"
-            }
+    "keymap":[
+        [
+            "0,0"
         ]
-    }
+    ]
 }
